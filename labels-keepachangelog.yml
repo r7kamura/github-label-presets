@@ -1,0 +1,18 @@
+- name: add
+  description: Add new features.
+  color: "0E8A16"
+- name: change
+  description: Change existing functionality.
+  color: "FBCA04"
+- name: deprecate
+  description: Mark as soon-to-be removed features.
+  color: "D93F0B"
+- name: remove
+  description: Remove features.
+  color: "B60205"
+- name: fix
+  description: Fix bug.
+  color: "5319E7"
+- name: security
+  description: In case of vulnerabilities.
+  color: "0052CC"
