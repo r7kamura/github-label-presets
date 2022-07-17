@@ -1,6 +1,6 @@
-# github-labels-presets
+# github-label-presets
 
-GitHub Labels presets for [github-labels-sync-action](https://github.com/r7kamura/github-label-sync-action).
+GitHub Labels presets for [github-label-sync-action](https://github.com/r7kamura/github-label-sync-action).
 
 ## Usage
 
@@ -24,7 +24,7 @@ jobs:
       - uses: r7kamura/github-label-sync-action@v0
         with:
           source_path: labels-keepachangelog.yml
-          source_repository: r7kamura/github-labels-preset
+          source_repository: r7kamura/github-label-presets
 ```
 
 ## Presets
