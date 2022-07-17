@@ -7,12 +7,12 @@
 - name: deprecate
   description: Mark as soon-to-be removed features.
   color: "d93f0b"
-- name: remove
-  description: Remove features.
-  color: "b60205"
 - name: fix
   description: Fix bug.
   color: "5319e7"
+- name: remove
+  description: Remove features.
+  color: "b60205"
 - name: security
   description: In case of vulnerabilities.
   color: "0052cc"
