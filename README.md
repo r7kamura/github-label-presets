@@ -31,7 +31,7 @@ jobs:
 
 ### labels-default.yml
 
-Labels provided by default.
+Labels provided by GitHub default.
 
 ### labels-keepachangelog.yml
 
