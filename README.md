@@ -29,6 +29,10 @@ jobs:
 
 ## Presets
 
+### labels-default.yml
+
+Labels provided by default.
+
 ### labels-keepachangelog.yml
 
 Labels based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
