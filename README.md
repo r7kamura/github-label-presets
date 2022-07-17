@@ -26,3 +26,9 @@ jobs:
           source_path: labels-keepachangelog.yml
           source_repository: r7kamura/github-labels-preset
 ```
+
+## Presets
+
+### labels-keepachangelog.yml
+
+Labels based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
