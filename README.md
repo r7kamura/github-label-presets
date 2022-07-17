@@ -23,6 +23,6 @@ jobs:
     steps:
       - uses: r7kamura/github-label-sync-action@v0
         with:
-          path: github-default.yml
-          repository: r7kamura/github-labels-keepachangelog
+          source_path: labels-keepachangelog.yml
+          source_repository: r7kamura/github-labels-preset
 ```
